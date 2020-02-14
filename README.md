@@ -5,7 +5,6 @@ __Input__: An N x M matrix of a garden. Each cell contains a positive integer re
 Input can be either:
 * Comma seperated values in the text file - "matrix.txt"
   * Rows are seperated with new line.
-  * Uncomment the section of the code that reads from the text file.
 * Hardcoded as shown in the test file
 
 __Output__: The number of carrots Bunny eats before falling asleep.
